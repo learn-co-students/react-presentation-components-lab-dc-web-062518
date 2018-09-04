@@ -1,5 +1,6 @@
 # React Presentation Components Lab
 
+
 ## Overview
 
 In this lab, you'll write a presentation component with minimal UI state and as
